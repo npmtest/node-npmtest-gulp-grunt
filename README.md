@@ -1,6 +1,6 @@
 # npmtest-gulp-grunt
 
-#### test coverage for  [gulp-grunt (v0.5.5)](http://github.com/gratimax/gulp-grunt)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-grunt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-grunt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-grunt.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-grunt)
+#### basic test coverage for  [gulp-grunt (v0.5.5)](http://github.com/gratimax/gulp-grunt)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-grunt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-grunt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-grunt.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-grunt)
 
 #### Run grunt tasks from gulp
 
